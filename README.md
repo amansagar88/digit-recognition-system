@@ -198,7 +198,7 @@ Contributions are welcome! If you have suggestions or find bugs, please feel fre
 
 ## 🧑‍💻 Author
 
-**Aman Sagar**  
+**[Aman Sagar](https://www.amansagar.dev/)**  
 Data Science Enthusiast | Passionate about ML Algorithms
 
 ---
