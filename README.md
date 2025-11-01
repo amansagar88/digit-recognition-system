@@ -51,7 +51,7 @@ Welcome to the Digit Recognizer project! This is a web application where users c
 
 ## 🚀 Live Demo
 
-**➡️ Check out the live demo at: [https://www.amansagar.dev/digit-recognition-system](https://www.amansagar.dev/digit-recognition-system)**
+**➡️ Check out the live demo at: [https://www.amansagar.dev/projects/digit-recognition-system](https://www.amansagar.dev/projects/digit-recognition-system)**
 
 *(Note: The first request might take a few seconds if the Space has gone to sleep)*
 
